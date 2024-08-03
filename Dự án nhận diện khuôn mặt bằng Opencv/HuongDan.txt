@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=G0ZqAZ4W_Rs(video hướng dẫn khi bị lỗi face_recognition)
+https://www.anaconda.com/download/(link tải Anaconda)
+Các bước thực hiện sửa lỗi
+1.pip install cmake
+2.conda install -c conda-forge dlib
+3.Opencv : conda install -c menpo opencv
+4.face_recognition: pip install face_recognition
